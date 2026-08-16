@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I'm a results-driven **Full Stack Developer** and **Technical Project Coordinator** who builds production-ready applications end-to-end — from **Django REST** backends and **PostgreSQL** databases to **React/Vite** frontends deployed through CI/CD pipelines.
+I'm a **Full Stack Developer** and **Technical Project Coordinator** who builds production-ready applications end-to-end — from **Django REST** backends and **PostgreSQL** databases to **React/Vite** frontends deployed through CI/CD pipelines.
 
 - 🔭 Currently building **SolidPrime**, a multi-tenant B2B operations dashboard (Django REST Framework + React 19/TypeScript)
 - 🌱 Sharpening skills in TypeScript, TanStack Query, and role-based access control patterns
